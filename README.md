@@ -3,7 +3,7 @@ Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to 
 
 ## Installation
 
-Download the `DahuaLoginBypass.crx` file from the [releases section](https://github.com/bp2008/DahuaLoginBypass/releases).
+Download the `.zip` file from the [releases section](https://github.com/bp2008/DahuaLoginBypass/releases).
 
 1. Extract the folder from this zip somewhere.
 2. Go to chrome's extensions page ( `chrome://extensions` ).
