@@ -10,7 +10,7 @@ Download the `.zip` file from the [releases section](https://github.com/bp2008/D
 3. Enable the **Developer mode** option at the top right.
 4. Click **Load unpacked** and choose the DahuaLoginBypass folder you extracted.
 
-### To use
+## Usage Instructions
 
 Go to the login page of a Dahua IP camera and click the extension's icon ( ![image](https://user-images.githubusercontent.com/5639911/136862312-eaa5845f-2ed7-4d3c-8575-431b2f46ef87.png) ).  This should add new buttons to the page for you to use.
 
