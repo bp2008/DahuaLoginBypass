@@ -1,0 +1,16 @@
+{
+    "name": "DahuaLoginBypass",
+    "version": "1.0",
+    "description": "Uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.",
+    "permissions": [ "activeTab", "scripting" ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {},
+    "icons": {
+        "32": "icon32.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "manifest_version": 3
+}
