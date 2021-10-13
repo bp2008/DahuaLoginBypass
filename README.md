@@ -1,5 +1,11 @@
 # DahuaLoginBypass
-Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.
+Chrome extension that uses vulnerability [CVE-2021-33044](https://packetstormsecurity.com/files/164423/Dahua-Authentication-Bypass.html) to log in to Dahua IP cameras and VTH/VTO (video intercom) devices without authentication.
+
+For other device types (NVR/DVR/XVR, etc), there exists [CVE-2021-33045](https://packetstormsecurity.com/files/164423/Dahua-Authentication-Bypass.html) which cannot be exploited with an ordinary web browser.
+
+These vulnerabilities are likely to be fixed in firmware released after Sept 2021.
+
+Credit for discovering the vulnerabilities: [bashis](https://github.com/mcw0)
 
 ## Installation
 
@@ -14,4 +20,5 @@ Download the `.zip` file from the [releases section](https://github.com/bp2008/D
 
 Go to the login page of a Dahua IP camera and click the extension's icon ( ![image](https://user-images.githubusercontent.com/5639911/136862312-eaa5845f-2ed7-4d3c-8575-431b2f46ef87.png) ) to the right of your address bar.  This should add new buttons to the page for you to use.
 
-![image](https://user-images.githubusercontent.com/5639911/136862352-cf69055d-710a-4164-9e47-db50952fc6ef.png)
+![image](https://user-images.githubusercontent.com/5639911/137221417-ef9fe775-44c1-4517-919f-902f3ba3eda1.png)
+
