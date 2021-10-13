@@ -18,7 +18,7 @@ Download the `.zip` file from the [releases section](https://github.com/bp2008/D
 
 ## Usage Instructions
 
-Go to the login page of a Dahua IP camera and click the extension's icon ( ![image](https://user-images.githubusercontent.com/5639911/136862312-eaa5845f-2ed7-4d3c-8575-431b2f46ef87.png) ) to the right of your address bar.  This should add new buttons to the page for you to use.
+Go to the login page of a Dahua IP camera and click the extension's icon ( ![image](https://user-images.githubusercontent.com/5639911/136862312-eaa5845f-2ed7-4d3c-8575-431b2f46ef87.png) ) to the right of your address bar.  This should add a panel with a new button for you to use:
 
 ![image](https://user-images.githubusercontent.com/5639911/137221417-ef9fe775-44c1-4517-919f-902f3ba3eda1.png)
 
